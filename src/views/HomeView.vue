@@ -110,6 +110,10 @@ function print() {
       <p>ชื่อ-นามสกุล: <span class="ml-4 inline-block w-48 border-b"></span></p>
       <p>วันที่: <span class="ml-4 inline-block w-24 border-b"></span></p>
     </section>
+
+    <section id="links" class="flex gap-4 print:hidden justify-center">
+      <a href="https://github.com/narze/PDPApe" target="_blank">GitHub</a>
+    </section>
   </main>
 </template>
 
