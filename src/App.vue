@@ -4,7 +4,7 @@ import HelloWorld from "@/components/HelloWorld.vue"
 </script>
 
 <template>
-  <header>
+  <!-- <header>
     <img
       alt="Vue logo"
       class="logo"
@@ -21,12 +21,12 @@ import HelloWorld from "@/components/HelloWorld.vue"
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
-  </header>
+  </header> -->
 
   <RouterView />
 </template>
 
-<style>
+<!-- <style>
 @import "@/assets/base.css";
 
 #app {
@@ -122,4 +122,4 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
-</style>
+</style> -->
